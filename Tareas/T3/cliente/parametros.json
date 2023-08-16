@@ -1,0 +1,18 @@
+{"PORT": 5050,
+"N_PONDERADOR" : 1,
+"NUMERO_JUGADORES": 4,
+"NUMERO_VIDAS": 2,
+"VALOR_PASO": 7,
+"PROB_DUDAR": 0.2,
+"PROB_ANUNCIAR": 0.1,
+"FONDO_INICIO": ["Sprites", "background", "background_inicio.png"],
+"FONDO_JUEGO": ["Sprites", "background", "background_juego.png"],
+"USER_PROFILE": ["Sprites", "extra", "user_profile.png"],
+"DICE_1": ["Sprites", "dices", "dice_1.png"],
+"DICE_2": ["Sprites", "dices", "dice_2.png"],
+"DICE_3": ["Sprites", "dices", "dice_3.png"],
+"DICE_4": ["Sprites", "dices", "dice_4.png"],
+"DICE_5": ["Sprites", "dices", "dice_5.png"],
+"DICE_6": ["Sprites", "dices", "dice_6.png"],
+"DICE_LOGO": ["Sprites", "dices", "dice_logo.png"]
+}

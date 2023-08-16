@@ -1,0 +1,12 @@
+{"PORT": 5050,
+"N_PONDERADOR" : 1,
+"NUMERO_JUGADORES": 4,
+"NUMERO_VIDAS": 2,
+"VALOR_PASO": 7,
+"PROB_DUDAR": 0.1,
+"PROB_ANUNCIAR": 0.1,
+"NOMBRE_1": "Sir Hernan4444",
+"NOMBRE_2": "Rey Joaking",
+"NOMBRE_3": "Mrs Lily416",
+"NOMBRE_4": "Dr. Pinto"
+}

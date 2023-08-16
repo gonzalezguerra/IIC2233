@@ -1,0 +1,18 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.idea
+*.DS_STORE
+
+Enunciado.pdf
+tesoros.csv
+excavadores.csv
+consumibles.csv
+arenas.csv
+DCCavaCava.txt
